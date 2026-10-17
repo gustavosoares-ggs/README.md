@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  studante de Engenharia de Software — 1º semestre
+  estudante de Engenharia de Software — 1º semestre 
 Apaixonado por dados, desenvolvimento de software e evolução constante!
 </p>
 
